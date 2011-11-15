@@ -1,0 +1,8 @@
+
+perl perlemPrzedWieprze.pl
+
+Skrypt w przypadku gdy w katalogu bieżącym nie znajdzie danych źródłowych, sam pobiera paczkę ze strony wolnelektury.pl.
+Po pobraniu paczki z liryką tworzy katalog plików źródłowych i potrzebne pliki. Kolejne uruchomienie również bez parametrów 
+powinno już skutkować wypisaniem utworu. 
+
+
